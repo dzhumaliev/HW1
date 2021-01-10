@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="name">Тест</string>
+
+    <string name="welcome">Добро пожаловать</string>
+    <string name="make_enter">Выполните вход</string>
+    <string name="click_here">Нажми сюда</string>
+    <string name="forgot">Забыл пароль</string>
+    <string name="enter">Войти</string>
+    <string name="password">Введите пароль</string>
+    <string name="email">Введите вашу почту</string>
+    <string name="registr">или зарегистрируйтесь</string>
+    <string name="sign_in">Вход</string>
+
+
+</resources>
